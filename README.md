@@ -2,7 +2,12 @@
 
 This Project create for How to create bean in java. Not using xml.
 
-How to configure and access bean method.
+This code will explain how to configure and access bean method.
+
+#Using Annotations
+1. @Configuration
+2. @Bean
+3. @Autowire
 
 #Notes
 
