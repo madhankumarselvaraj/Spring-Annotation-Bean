@@ -1,6 +1,6 @@
 #Annotation
 
-This Project create for How to create bean in java. Not using xml.
+This Project create for how to create bean in java. Not using xml.
 
 This code will explain how to configure and access bean method.
 
