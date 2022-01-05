@@ -10,7 +10,7 @@ This code will explain how to configure and access bean method.
 3. @Autowire
 
 #Notes
-If you want run this code. I need these configuration in your system
+If you want run this code. You need these configurations
 1. Java 6+..
 2. Springframework,
 3. IDE
